@@ -38,7 +38,8 @@ Gmail Trigger → AI Processing → Notification / Automation
 
 ### Gmail Trigger Workflow
 
-<img width="1733" height="837" alt="Discord ポートフォリオ 3png" src="https://github.com/user-attachments/assets/1236eb01-98e9-42cb-b0aa-55f20a46d2e4" />
+<img width="2426" height="1066" alt="Gmail Trigger Workflow" src="https://github.com/user-attachments/assets/a52d4af0-0792-4ebe-a216-87a155bfc0ea" />
+
 
 
 
