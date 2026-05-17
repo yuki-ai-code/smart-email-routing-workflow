@@ -60,7 +60,13 @@ Discord Notification
 
 <img width="1152" height="169" alt="discord-notification-result3" src="https://github.com/user-attachments/assets/76def839-a803-4f6e-a4eb-9195d31ee11e" />
 
----
+## Use Cases
+
+- Customer inquiry management
+- AI-powered email summaries
+- Internal team notifications
+- Reducing time spent checking emails
+- Organizing important information automatically
 
 ## Future Improvements
 
