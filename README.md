@@ -71,9 +71,10 @@ Discord Notification
 ## Future Improvements
 
 
-
-- Auto reply generation
-- Label classification
 - Google Sheets integration
+- Automatic priority classification
+- AI-generated reply suggestions
+- CRM / Slack integration
+- Advanced email categorization
 
 
