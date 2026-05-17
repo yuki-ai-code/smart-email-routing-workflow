@@ -29,11 +29,11 @@ Gmail Trigger → AI Processing → Notification / Automation
 
 ## Features
 
-- Gmail message retrieval
-- OAuth2 authentication
-- AI automation workflow
-- Gmail API integration
-- No-code automation using n8n
+- Automatically retrieves new Gmail messages
+- Summarizes emails using OpenAI API
+- Sends AI summaries to Discord
+- Reduces manual email checking
+- Improves team information sharing
 
 ---
 
