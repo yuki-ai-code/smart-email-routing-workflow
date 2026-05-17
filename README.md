@@ -2,7 +2,10 @@
 
 ## Overview
 
-This project is an AI automation workflow built using n8n and Gmail API.
+This workflow automatically retrieves Gmail messages, summarizes them using OpenAI API, and sends notifications to Discord.
+
+It helps reduce time spent checking emails and improves information sharing for teams.
+
 
 The workflow retrieves Gmail messages and processes them for AI-based automation.
 
