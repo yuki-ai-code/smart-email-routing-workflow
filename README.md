@@ -23,7 +23,11 @@ The workflow retrieves Gmail messages and processes them for AI-based automation
 
 ## Workflow Structure
 
-Gmail Trigger → AI Processing → Notification / Automation
+Gmail Trigger  
+↓  
+OpenAI Email Summary  
+↓  
+Discord Notification
 
 ---
 
