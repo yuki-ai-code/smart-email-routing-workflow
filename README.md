@@ -18,7 +18,8 @@ The workflow retrieves Gmail messages and processes them for AI-based automation
 - OAuth2
 - OpenAI API
 - JSON
-
+- Google Sheets API
+- Discord Webhook
 ---
 
 ## Workflow Structure
@@ -26,6 +27,8 @@ The workflow retrieves Gmail messages and processes them for AI-based automation
 Gmail Trigger  
 ↓  
 OpenAI Email Summary  
+↓  
+Google Sheets Storage  
 ↓  
 Discord Notification
 
@@ -42,6 +45,10 @@ Discord Notification
 ---
 
 ## Screenshots
+
+### Full Workflow
+
+<img width="1633" height="814" alt="Gmail AI Summary to Google Sheets" src="https://github.com/user-attachments/assets/93c8429c-2767-4690-baa5-e66e1e54c784" />
 
 ### Gmail Trigger Workflow
 
@@ -71,10 +78,11 @@ Discord Notification
 ## Future Improvements
 
 
-- Google Sheets integration
 - Automatic priority classification
 - AI-generated reply suggestions
 - CRM / Slack integration
 - Advanced email categorization
-
+- Slack integration
+- AI priority detection
+- Automatic categorization
 
